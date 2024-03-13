@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/ejuju/my-ttyart-exhibit/pkg/tty"
+	"github.com/ejuju/poc-go-tty-art/pkg/tty"
 )
 
 func Run() (err error) {

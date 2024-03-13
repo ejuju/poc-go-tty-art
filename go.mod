@@ -1,4 +1,4 @@
-module github.com/ejuju/my-ttyart-exhibit
+module github.com/ejuju/poc-go-tty-art
 
 go 1.21.4
 
